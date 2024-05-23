@@ -1,0 +1,58 @@
+.container {
+  margin-top: 80px;
+  text-align: center;
+}
+
+.subTitle {
+  font-size: 30px;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.subTitle p {
+  font-size: 20px;
+}
+
+.description {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-top: 50px;
+}
+
+.contactItems li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.contactItems li a:hover {
+  color: blue;
+}
+
+.contactItems .contactIcon {
+  color: #fff;
+  font-size: 30px;
+  margin-right: 10px;
+}
+
+.contactItems li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* responsive */
+@media screen and (max-width: 830px) {
+  .contactItems {
+    text-align-last: left;
+  }
+
+  .contactItems li {
+    display: flex;
+    align-items: center;
+  }
+
+  .contactIcon {
+    margin-right: 10px;
+  }
+}

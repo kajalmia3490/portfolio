@@ -1,0 +1,30 @@
+[
+    {
+        "title": "My Todo App",
+        "screenshots": "https://searchengineland.com/wp-content/seloads/2020/03/code-SS_634574354-1920x1080-1.jpg",
+        "tech": "React",
+        "demo": "https://kajalmia3490.github.io/todo-app/",
+        "source": "https://github.com/kajalmia3490/todo-app"
+    },
+    {
+        "title": "Project B",
+        "screenshots": "https://searchengineland.com/wp-content/seloads/2020/03/code-SS_634574354-1920x1080-1.jpg",
+        "tech": "React",
+        "demo": "live link",
+        "source": "code"
+    },
+    {
+        "title": "Ekdam Commerce",
+        "screenshots": "https://searchengineland.com/wp-content/seloads/2020/03/code-SS_634574354-1920x1080-1.jpg",
+        "tech": "Vanila Javascript",
+        "demo": "live link",
+        "source": "code"
+    },
+    {
+        "title": "Project D",
+        "screenshots": "https://searchengineland.com/wp-content/seloads/2020/03/code-SS_634574354-1920x1080-1.jpg",
+        "tech": "React",
+        "demo": "live link",
+        "source": "code"
+    }
+]

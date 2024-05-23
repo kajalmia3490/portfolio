@@ -1,0 +1,90 @@
+@import "../../vars.css";
+
+.container {
+  margin-top: 150px;
+  text-align: center;
+}
+
+.title {
+  color: #fff;
+  margin-bottom: 20px;
+  margin: 80px 10% 50px 10%;
+  text-align: left;
+  font-size: 30px;
+}
+
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+.description {
+  text-align: center;
+}
+
+.images {
+  list-style-type: none;
+}
+
+.imgIcon {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.skillTitle {
+  color: #fff;
+  font-size: large;
+  margin-top: 10px;
+}
+
+.scoreLine {
+  width: 90%;
+  background-color: green;
+  padding: 3px;
+  animation-duration: 3s;
+  animation-name: score;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  color: white;
+}
+
+.border {
+  border: 1px solid gainsboro;
+  background-color: #fff;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  width: 100%;
+}
+
+@keyframes score {
+  from {
+    width: 0%;
+    background-color: yellow;
+  }
+  to {
+    width: 90%;
+    background-color: green;
+  }
+}
+
+/* responsive */
+@media screen and (max-width: 830px) {
+  .imgIcon {
+    width: 80px;
+    height: 80px;
+  }
+}

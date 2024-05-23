@@ -1,0 +1,47 @@
+[
+  {
+    "title": "HTML",
+    "imgIcon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWDjHureoIu8xfZQ4oKQzuYVXjIiFyaKYN-aEuz_uxnw&s",
+    "percent": "95%"
+  },
+  {
+    "title": "CSS",
+    "imgIcon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs-53NX0aNzFeyVw81k3PwNHdjhtdFxHhC1z-_0AsSBw&s",
+    "percent": "95%"
+  },
+  {
+    "title": "Bootstrap",
+    "imgIcon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZaRMDWOmHt0C9dYEC0O4JHV659gn9LwGf5cCnT9_y6w&s",
+    "percent": "95%"
+  },
+  {
+    "title": "TailwindCSS",
+    "imgIcon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQMAgy_XeSr2CmOITAysaZtDxsVUSTSYtSM2EKE5ivhg&s",
+    "percent": "95%"
+  },
+  {
+    "title": "Javascript",
+    "imgIcon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXspH8Tc2j8AiK9SCOLptYOG_KfYlykslZrW4dUx2Jg&s",
+    "percent": "95%"
+  },
+  {
+    "title": "jQuery",
+    "imgIcon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXSk5PgXT81BaSaxkSJTykXAA1CmWYUoODp2Eup-7IFA&s",
+    "percent": "92%"
+  },
+  {
+    "title": "React JS",
+    "imgIcon": "https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png",
+    "percent": "90%"
+  },
+  {
+    "title": "Git",
+    "imgIcon": "https://w7.pngwing.com/pngs/134/546/png-transparent-git-version-control-system-vcs-git-logo-github-repositories-3d-icon.png",
+    "percent": "95%"
+  },
+  {
+    "title": "Figma",
+    "imgIcon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ENFHAhhfrKicrm0hfxDU4U7P2zOjQv7LMG92Q_HLZw&s",
+    "percent": "95%"
+  }
+]
